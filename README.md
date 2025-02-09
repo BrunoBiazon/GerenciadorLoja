@@ -3,7 +3,7 @@
 🧾Este é um projeto em **Java** que implementa um **gerenciador de produtos** para uma loja esportiva. A aplicação permite o cadastro, consulta, alteração e exclusão de produtos. 
 
 
-![image](https://github.com/user-attachments/assets/d5c3a1fb-8f4d-48a9-a5f3-32b8d69f6473)
+   ![image](https://github.com/user-attachments/assets/d5c3a1fb-8f4d-48a9-a5f3-32b8d69f6473)
 
 #  🔧 Funcionalidades
 
