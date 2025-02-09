@@ -7,7 +7,7 @@
 
 #  🔧 Funcionalidades
 
-- ### ➕ **Cadastro de Produto**: Adiciona um novo produto ao sistema.
+- ### ✅ **Cadastro de Produto**: Adiciona um novo produto ao sistema.
 
    ![image](https://github.com/user-attachments/assets/5e96d278-14b5-491c-a311-60952888a515)  ![image](https://github.com/user-attachments/assets/6594e810-f5de-4770-b517-56d77468bd17)
 
